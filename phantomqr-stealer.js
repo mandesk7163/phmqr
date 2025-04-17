@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 const axios = require('axios');
 const path = require('path');
 const app = express();
-const webhookUrl = "https://discord.com/api/webhooks/SEU_WEBHOOK_AQUI";
+const webhookUrl = "https://discord.com/api/webhooks/1362455750202359869/KxjL9Kg38zfdErVc1OCzjZazhSznhjO1QKf0Cu8XZkCQ4ejPcceU609Z3Ktr-WbNW6J4";
 
 app.use(express.static('public'));
 
